@@ -17,7 +17,11 @@ Bu proje; **Fetch API**, **Async/Await** ve **mockAPI** servisleri kullanılarak
 
 ## 📸 Ekran Görüntüsü / Demo
 
-*(Buraya projenin resmini veya videosunu yükleyip sürükleyerek ekleyebilirsin)*
+<img width="3706" height="1834" alt="iPhone-14-PRO-MAX-127 0 0 1 (4)" src="https://github.com/user-attachments/assets/486c0dd0-f069-4b08-aa18-ac2bce73553b" />
+<img width="3706" height="1834" alt="iPhone-14-PRO-MAX-127 0 0 1 (5)" src="https://github.com/user-attachments/assets/618ecdca-9051-471b-adde-dc9ffc29c3ca" />
+<img width="836" height="1702" alt="iPhone-14-PRO-MAX-127 0 0 1 (1)" src="https://github.com/user-attachments/assets/7fa91b6e-8cac-4bd1-85ed-a11c0a782781" />
+<img width="3706" height="1834" alt="iPhone-14-PRO-MAX-127 0 0 1 (3)" src="https://github.com/user-attachments/assets/eec24193-bbbc-4872-8257-88c30e2acfdf" />
+
 
 ---
 👨‍💻 **Geliştirici:** Eyyüp Buğra Öztürk
